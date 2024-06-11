@@ -13,7 +13,7 @@ const features = {
     console.log("New Feature Enabled");
   } else {
     // Code for the existing functionality
-    console.log("Existing Functionality");
+    console.log("Existing Functionality ");
   }
   
   module.exports = { isFeatureEnabled };
