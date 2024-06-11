@@ -1,0 +1,23 @@
+{
+  "name": "trunk-based-development-project",
+  "version": "1.0.0",
+  "description": "Trunk-Based-Development-Project",
+  "main": "feature-toggle.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishnu-vishwakarma95/Trunk-Based-Development-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishnu-vishwakarma95/Trunk-Based-Development-Project/issues"
+  },
+  "homepage": "https://github.com/vishnu-vishwakarma95/Trunk-Based-Development-Project#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

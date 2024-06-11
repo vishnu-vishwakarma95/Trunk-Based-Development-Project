@@ -1,3 +1,5 @@
+// feature-toggle.js
+
 const features = {
     newFeature: false,
   };
@@ -13,4 +15,6 @@ const features = {
     // Code for the existing functionality
     console.log("Existing Functionality");
   }
+  
+  module.exports = { isFeatureEnabled };
   
